@@ -781,21 +781,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 30px;
 }
 
-#speakers .speaker .speaker-container {
-  position: relative;
-  padding-top: 100%;
-  overflow: hidden;
-}
-
-#speakers .speaker .speaker-container img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
 #speakers .speaker .details {
   background: rgba(6, 12, 34, 0.76);
   position: absolute;
